@@ -21,6 +21,12 @@ Everything here is open source (Apache 2.0). The website is **[cleandataengineer
 | [ai-harness-catalog](https://github.com/dataagentsai/ai-harness-catalog) | What must **exist** around a model call: 16 harness layers |
 | [clean-ai-engineering](https://github.com/dataagentsai/clean-ai-engineering) | The method: principles, spec formats and four quality gates |
 
+## Review a data project
+
+| Repo | What it is |
+|---|---|
+| [data-project-review](https://github.com/dataagentsai/data-project-review) | A Claude skill that reviews a data engineering project's documents and says what's missing at its stage, technical and delivery, with a fail-fast plan |
+
 ## Learn
 
 - [Agent Harness from Scratch](https://github.com/dataagentsai/agent-harness-from-scratch): build a production agent one part at a time, in plain Python, free to run
